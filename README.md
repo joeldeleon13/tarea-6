@@ -1,5 +1,5 @@
 Tarea 6
-Esta aplicación fue desarrollada como parte de una tarea para el curso Vento de Programación. La aplicación está escrita en Flutter y utiliza diversas APIs para mostrar información útil y relevante para el usuario.
+Esta aplicación fue desarrollada como parte de una tarea para la materia de  aplicacion movil . La aplicación está escrita en Flutter y utiliza diversas APIs para mostrar información útil y relevante para el usuario.
 
 Funcionalidades
 1. Foto de una Caja de Herramientas
